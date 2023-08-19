@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react_MANAGE_albums/static/css/main.5c94b38a.css",
-    "main.js": "/react_MANAGE_albums/static/js/main.8ef89e5f.js",
-    "index.html": "/react_MANAGE_albums/index.html",
-    "main.5c94b38a.css.map": "/react_MANAGE_albums/static/css/main.5c94b38a.css.map",
-    "main.8ef89e5f.js.map": "/react_MANAGE_albums/static/js/main.8ef89e5f.js.map"
+    "main.css": "/react_manage_albums/static/css/main.5c94b38a.css",
+    "main.js": "/react_manage_albums/static/js/main.8ef89e5f.js",
+    "index.html": "/react_manage_albums/index.html",
+    "main.5c94b38a.css.map": "/react_manage_albums/static/css/main.5c94b38a.css.map",
+    "main.8ef89e5f.js.map": "/react_manage_albums/static/js/main.8ef89e5f.js.map"
   },
   "entrypoints": [
     "static/css/main.5c94b38a.css",
